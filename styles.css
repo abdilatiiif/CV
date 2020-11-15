@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: monospace;
+  font-size: 10px;
+}
+
+h1 {
+  margin-top: 0px 0px;
+  margin-bottom: 0;
+  font-size: 4rem;
+  color: #e8e8e8;
+  font-weight: normal;
+}
+
+h2 {
+  color: #ec5858;
+  font-size: 1.9rem;
+}
+
+h3 {
+  color: #16a596;
+  font-size: 1.9rem;
+}
+
+.pro {
+  font-size: 2.9rem;
+  margin-top: 0;
+  color: #e8e8e8;
+  line-height: 2;
+}
+
+p {
+  font-size: 1.3rem;
+}
+.latif {
+  font-family: "Sacramento", cursive;
+}
+
+.top-container {
+  background-color: #8db596;
+  padding-top: 100px;
+  position: relative;
+}
+
+.nede {
+  position: absolute;
+  left: 420px;
+  top: 250px;
+}
+
+.top {
+  position: absolute;
+  top: 30px;
+  right: 400px;
+}
+
+.fjell {
+  position: relative;
+  bottom: 0px;
+}
+
+.face {
+  width: 140px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.ball {
+  width: 200px;
+  height: 250px;
+}
